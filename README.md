@@ -13,3 +13,9 @@ Source: https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset
 
 ## Tools Used
 Python, Pandas, Scikit-learn, Matplotlib, Seaborn, Google Colab
+
+
+© 2026 Abhishek S Mohan
+
+This project was created and developed by Abhishek S Mohan.
+All rights reserved.
